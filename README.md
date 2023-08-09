@@ -1,5 +1,5 @@
 The objective of this project is to predict the flight delay based on the data of 15
-airports (refer in Table 1) in the United States of America using a pipeline model.
+airports in the United States of America using a pipeline model.
 The project involves an extensive data acquisition and data preprocessing of
 flight and weather data. A pipeline consisting of a classifier and a regressor
 was modeled, built, and analyzed to predict the departure delay of flight. This
